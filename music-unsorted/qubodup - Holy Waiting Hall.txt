@@ -1,0 +1,10 @@
+Author:  Iwan Gabovitch  'qubodup' (http://qubodup.net)
+License: CC-BY-SA
+Origin: http://opengameart.org/content/holy-waiting-hall
+
+Seamless Loop made in LMMS and cut for loop in Audacity. If you want something good, check out the user yd.
+
+Comes with LMMS source.
+
+Attribution Instructions: 
+Copyright 2012 Iwan 'qubodup' Gabovitch http://qubodup.net qubodup@gmail.com | License: CC Attribution-ShareAlike 3.0 Unported http://creativecommons.org/licenses/by-sa/3.0/

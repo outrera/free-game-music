@@ -1,0 +1,11 @@
+Author: David McKee (http://www.soundcloud.com/virix)
+License: CC-BY
+Origin: http://opengameart.org/content/dynamic-action-music-pack
+
+THis is a single song split into multiple pars so that it can be used for realtime transitions. You can use this as you wish.
+
+I have a retro action song on the Unity Asset Store as well here.
+https://www.assetstore.unity3d.com/en/#!/content/22212 
+
+Copyright/Attribution Notice: 
+All I ask is that you place the following in the credits. "Some of the music in this project was created by ViRiX Dreamcore (David McKee soundcloud.com/virix"

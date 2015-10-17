@@ -1,0 +1,8 @@
+Author: Mattias Westlund (West), Cheeselord
+License: CC-BY-SA
+Origin: http://sumwars.org/wiki/Main_Page
+
+All resources and data (content of subdirectories resources and data) is under
+CC-BY-SA (version 3.0 or later).  You can see the exact license text at:
+
+http://creativecommons.org/licenses/by-sa/3.0/

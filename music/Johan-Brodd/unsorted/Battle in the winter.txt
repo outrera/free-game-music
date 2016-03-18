@@ -1,0 +1,3 @@
+Author: Johan Brodd 'jobromedia'
+License: CC-BY, OGA-BY, GPL3
+Origin: http://opengameart.org/content/battle-in-the-winter

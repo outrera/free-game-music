@@ -1,0 +1,117 @@
+This files lists the licenses of the files that has been added during of after Radakan Subversion revision 595 under trunk/.
+
+Files under the Radakan license [A]:
+
+    - All *.cfg, *.html, *.py and *.txt files.
+
+Files under the Creative Commons-Attribution-Share Alike 3.0 license [B]:
+
+    Made by Aare:
+        - trunk/client/art/models/pitcher.egg [1]
+        - trunk/client/art/models/textures/cup_cer_norm.png [1]
+        - trunk/client/art/models/textures/cup_cer_spec.png [1]
+        - trunk/client/art/models/textures/cup_cer_tex.png [1]
+
+    Made by Ails:
+        - trunk/client/art/icons/I_Chest01.png [2]
+        - trunk/client/art/icons/W_Dagger002.png [2]
+
+    Made by remaxim:
+        - trunk/client/art/music/boss_theme.ogg [3]
+        - trunk/client/art/music/dungeon_theme.ogg [4]
+        - trunk/client/art/music/overworld_theme.ogg [5]
+        - trunk/client/art/music/safe_room_theme.ogg [6]
+        - trunk/client/art/music/town_theme.ogg [7]
+
+    Made by clrg:
+        - trunk/client/art/models/textures/dirt.png [8]
+
+    Made by pfunked:
+        - trunk/client/art/models/clawhammer.egg [10]
+        - trunk/client/art/models/hatchet.egg [10]
+        - trunk/client/art/models/heavyaxe.egg [10]
+        - trunk/client/art/models/hoe.egg [10]
+        - trunk/client/art/models/kama.egg [10]
+        - trunk/client/art/models/pickaxe.egg [10]
+        - trunk/client/art/models/pitchfork.egg [10]
+        - trunk/client/art/models/scythe.egg [10]
+        - trunk/client/art/models/shovel.egg [10]
+        - trunk/client/art/models/sickle.egg [10]
+        - trunk/client/art/models/sledgehammer.egg [10]
+        - trunk/client/art/models/textures/gnarly_tool.png [10]
+        - trunk/client/art/models/trumpet.egg [11]
+        - trunk/client/art/models/textures/trumpet_diffuse.png [11]
+
+    Made by tidbit:
+        - trunk/client/art/models/igloo.egg [12]
+        - trunk/client/art/models/textures/sand_igloo.jpg [12]
+
+    Made by the Radakan team:
+        - trunk/client/art/models/bowl_test_02.egg
+        - trunk/client/art/models/textures/bowl_01_d.png
+        - trunk/client/art/models/textures/bowl_01_n.png
+        - trunk/client/art/models/ground.egg
+        - trunk/client/art/models/fence_01.egg
+        - trunk/client/art/models/textures/fence_01_d.png
+        - trunk/client/art/models/textures/fence_01_n.png
+        - trunk/client/art/models/xemna_base_01.egg
+        - trunk/client/art/models/textures/xemna_base_01_d.png
+        - trunk/client/art/models/textures/xemna_base_01_n.png
+        - trunk/client/art/music/as_the_light_comes_in.ogg
+        - trunk/client/art/music/cave_ambience.ogg
+        - trunk/client/art/music/del_erad_echoes.ogg
+        - trunk/client/art/music/del_erad.ogg
+        - trunk/client/art/music/dramatic_event_2.ogg
+        - trunk/client/art/music/fanfare_2.ogg
+        - trunk/client/art/music/fanfare_3.ogg
+        - trunk/client/art/music/fanfare_4.ogg
+        - trunk/client/art/music/inferno.ogg
+        - trunk/client/art/music/maria's_theme.ogg
+        - trunk/client/art/music/miscmenu.ogg
+        - trunk/client/art/music/misc_theme_1.ogg
+        - trunk/client/art/music/misc_theme_2.ogg
+        - trunk/client/art/music/misc_theme_4.ogg
+        - trunk/client/art/music/moldan_chase.ogg
+        - trunk/client/art/music/moldan_chase_over_failure.ogg
+        - trunk/client/art/music/moldan_chase_over_success.ogg
+        - trunk/client/art/music/old_moltara_underwater_ruins.ogg
+        - trunk/client/art/music/radakan_game_lost.ogg
+        - trunk/client/art/music/tree_creation.ogg
+        - trunk/client/art/music/vol_caves.ogg
+
+Files under the Creative Commons-Attribution 3.0 license [C]:
+
+    Made by Lamoot:
+        - trunk/client/art/models/textures/plowed_dirt.png [13]
+
+    Made by pfunked:
+        - trunk/client/art/models/plowed_tiles.egg [14]
+        - trunk/client/art/models/plowed_tiles_north_end.egg [14]
+        - trunk/client/art/models/plowed_tiles_south_end.egg [14]
+        - trunk/client/art/models/textures/plowed_normal.png [14]
+
+Files under the CC0 1.0 license [D]:
+
+    Made by WeaponGuy:
+        - trunk/client/art/models/picket-fence.egg [15]
+        - trunk/client/art/models/textures/picket_fence_wood.jpg [15]
+
+[A] trunk/radakan_license.txt
+[B] http://creativecommons.org/licenses/by-sa/3.0/
+[C] http://creativecommons.org/licenses/by/3.0/
+[D] http://creativecommons.org/publicdomain/zero/1.0/
+
+[1] http://opengameart.org/content/ceramic-bear-mug
+[2] http://opengameart.org/content/420-pixel-art-icons-medievalfantasy-rpg
+[3] http://opengameart.org/content/boss-theme
+[4] http://opengameart.org/content/dungeon-theme
+[5] http://opengameart.org/content/overworld-theme
+[6] http://opengameart.org/content/safe-room-theme
+[7] http://opengameart.org/content/town-theme
+[8] http://opengameart.org/content/tileable-dirt-texture-256x256
+[10] http://opengameart.org/content/gnarly-tools
+[11] http://opengameart.org/content/conch-trumpet
+[12] http://opengameart.org/content/desert-buildings
+[13] http://opengameart.org/content/dirt-004
+[14] http://opengameart.org/content/plowed-rows
+[15] http://opengameart.org/content/basic-wooden-fence

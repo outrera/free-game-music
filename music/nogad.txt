@@ -1,0 +1,3 @@
+Author: noguard (aka PD Spyn Cykil)
+License: CC0 (Public Domain)
+Origin: https://svn.worldforge.org:886/svn/media/trunk/music/artists/nogard/

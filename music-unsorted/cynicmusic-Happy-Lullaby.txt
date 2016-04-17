@@ -1,8 +1,8 @@
 Author: Alex Smith 'cynicmusic.com' (http://pixelsphere.org/)
-License: CC0 (Public Domain)
-Origin: http://opengameart.org/content/battle-theme-a
+License: CC-BY
+Origin: http://opengameart.org/content/happy-lullaby-song17
 
-Epic battle theme for RPG. Some pretty epic strings and horns here will add a lot of excitement to your game or projects.
+Beautiful bells and arpeggios. Suitable for rpg, exploration or puzzle game. Easy for perfect loop. I have precompressed this to be optimal for web distribution with VBR, I assure you the quality is 100% and better than 128kbps even if it looks like the sample rate is 32kHz and bitrate are lower.
 
 This is for my upcoming game Pixelsphere (pixelsphere.org) also on Kickstarter until January 5, 2014. I'm sharing some of my assets (art, sound effects and music) with the community to thank you for all the great content you have contributed. Let me know which works you find useful and I will share more similar content.
 

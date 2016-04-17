@@ -1,0 +1,10 @@
+Author: Alex Smith 'cynicmusic.com' (http://pixelsphere.org/)
+License: CC-BY, CC-BY-SA, GPL3
+Origin: http://opengameart.org/content/crystal-cave-song18
+
+Deep Bass! Stone and bell textures and arpeggios. Suitable for cave level or puzzle game. Easy for perfect loop. I have precompressed this to be optimal for web distribution with VBR, I assure you the quality is 100% and better than 128kbps even if it looks like the sample rate and bitrate are lower.
+
+This is for my upcoming game Pixelsphere (pixelsphere.org). I'm sharing some of my assets (art, sound effects and music) with the community to thank you for all the great content you have contributed. Let me know which works you find useful and I will share more similar content.
+
+Attribution Instructions: 
+Credit pixelsphere.org / The Cynic Project. Please link to my website and notify me if you use the music.

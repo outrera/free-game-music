@@ -1,0 +1,5 @@
+Author: hornpipe2
+License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/)
+Origin: http://opengameart.org/content/minor-piano-strings-loop
+
+A short (24 seconds) MIDI sequence with a piano and backing strings.  I used for a title splash-screen.

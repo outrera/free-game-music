@@ -1,0 +1,3 @@
+Author: Marek "Wansti" Moeckel
+License: GPL2
+Origin: http://supertuxproject.org/download.html

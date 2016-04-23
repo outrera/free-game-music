@@ -1,5 +1,9 @@
 Author: Yubatake (https://soundcloud.com/yubatake/)
 License: CC-BY
+
+Copyright/Attribution Notice: 
+Please just mention my username and opengameart.org
+
 Origin:
 http://opengameart.org/content/pastoral
 http://opengameart.org/content/funkotron
@@ -10,6 +14,5 @@ http://opengameart.org/content/roll-up
 http://opengameart.org/content/distant-plains
 http://opengameart.org/content/rainbow-rush
 http://opengameart.org/content/gunma-chan-gambol
-
-Copyright/Attribution Notice: 
-Please just mention my username and this site.
+http://opengameart.org/content/elegy-dm
+http://opengameart.org/content/el-rinc%C3%B3n

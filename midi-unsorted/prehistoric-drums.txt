@@ -1,0 +1,5 @@
+Author: hornpipe2
+License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/)
+Origin: http://opengameart.org/content/cave-music
+
+A short (6 seconds) loop of prehistoric-sounding drums.  Used for a character select screen in a side project.

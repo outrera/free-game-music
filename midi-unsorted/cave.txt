@@ -1,0 +1,5 @@
+Author: hornpipe2
+License: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/)
+Origin: http://opengameart.org/content/cave-music
+
+Just a little ambient MIDI tune for your cave or dungeon adventures

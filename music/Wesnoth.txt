@@ -6,4 +6,4 @@ Origin: wesnoth.org
 this is based of 17-08-2015 checkout
 
 
-Note: "wanderer.ogg" is a possible plagiarism of Betrayal at Krondor title theme, so you at your own risk.
+Note: "wanderer.ogg" is a possible plagiarism of Betrayal at Krondor title theme, so use at your own risk.

@@ -1,0 +1,22 @@
+Author: Lauromine (http://lauromine.net/sokoban/bin/game.html)
+License: CC-BY
+Origin: http://opengameart.org/content/puzzle-reflexion-loop-opening-theme
+
+Hi !
+
+Today, I've got 2 musics for you, and you're free to use/modify them as you want !
+
+
+- "music_level_sokoban" is a loop used when the player needs to think a bit !
+
+- "music_titlecard_sokoban" was made to be used as an opening when you see the title screen
+
+They're both available in .wav, .ogg and .mp3 !
+
+These two tracks were used in one of my games : Sulfur which is a remake of the famous "Sokoban", you can play it here (your pseudo is used to save your progression and for high scores :) )
+
+http://lauromine.net/sokoban/bin/game.html
+
+ 
+
+If you need something, feel free to ask :)

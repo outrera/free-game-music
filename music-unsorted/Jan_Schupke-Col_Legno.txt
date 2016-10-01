@@ -1,5 +1,5 @@
 Author: Jan Schupke 'Vehicle' (http://www.vehiclemusic.eu jan.schupke@gmail.com)
 License: Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)
-Origin: http://opengameart.org/content/intro-cue
+Origin: http://opengameart.org/content/col-legno
 
-Short orchestral intro cue.
+Orchestral action cue.

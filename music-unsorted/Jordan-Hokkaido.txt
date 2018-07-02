@@ -1,0 +1,5 @@
+Author: Jordan 'Joth'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/hokkaido
+
+A looping tune reminiscent of traditional Japanese music, though using some non-traditional instrumentation.

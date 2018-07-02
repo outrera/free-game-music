@@ -1,0 +1,14 @@
+author: Brylie Christopher Oxley 'brylie', fisu (https://freesound.org/people/fisu/)
+license: CC-BY 4.0
+origin: https://opengameart.org/content/brylie-christopher-oxley-springtime-morning-birdsong
+
+
+Mood for a Springtime morning. 
+
+Sunthesized with ZynAddSubFx and Helm, sequenced with Ardour. 
+
+
+credits
+Birds recorded by fisu (FreeSound.org)
+freesound.org/people/fisu/sounds/349481/ 
+Birds recorded springtime in Finland at rural Orivesi. In the middle of recording a swan couple fly close by along a small river. Recorded with PAW 120 digital recorder's internal stereo mic.

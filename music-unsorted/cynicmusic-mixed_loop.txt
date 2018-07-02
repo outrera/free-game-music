@@ -1,0 +1,13 @@
+Author: Alex Smith 'cynicmusic.com' (http://pixelsphere.org/)
+License: CC-BY, CC-BY-SA, GPL3
+Origin: https://opengameart.org/content/crystal-cave-mysterious-ambience-seamless-loop
+
+This is a seamless looping music, derived by stitching together these two tracks:
+
+http://opengameart.org/content/crystal-cave-song18
+http://opengameart.org/content/mysterious-ambience-song21
+
+Both by http://opengameart.org/users/cynicmusic and from the http://pixelsphere.org/ game.
+
+Copyright/Attribution Notice: 
+Credit pixelsphere.org / The Cynic Project. Please link to cynicmusic's website and, as a courtesy not a requirement, notify him if you use the music.

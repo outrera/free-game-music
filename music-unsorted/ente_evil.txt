@@ -1,3 +1,10 @@
 author: The Real Monoton Artist (http://www.soundcloud.com/the-real-monoton-artist)
-license: CC0 (Public Domain)
+license: Public Domain (CC0)
 origin: http://opengameart.org/content/metal-song-energetic
+        http://www.tinyworlds.org/duckstruction.html
+
+Energetic Metal Song created for Duckstruction
+Includes the game-ready song as .mp3 and .ogg.
+
+You are a cute duckling destroying the city, because a rolling hamster killed your family.
+Submitted with permission by the Real Monoton Artist. Check out his Souncloud account for more interesting music.

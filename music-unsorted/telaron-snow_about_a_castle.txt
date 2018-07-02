@@ -1,0 +1,5 @@
+Author: Telaron
+License: GPL2, GPL3
+Origin: https://opengameart.org/content/snow-about-a-castle
+
+Wesnoth inspired music I wrote for fun.

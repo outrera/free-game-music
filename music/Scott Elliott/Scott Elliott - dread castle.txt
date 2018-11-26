@@ -1,0 +1,8 @@
+Author: Scott Elliott 'Scrabbit'
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/dread-castle
+
+Dungeon synth for exploring dank crypts. Could also work for some darker, grimier sci-fi.
+
+Copyright/Attribution Notice: 
+"Dread Castle" composed by Scott Elliott

@@ -1,0 +1,8 @@
+Author: Scott Elliott 'Scrabbit'
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/random-encounter-0
+
+JRPG-style random encounter music.
+
+Copyright/Attribution Notice: 
+"Random Encounter" composed by Scott Elliott

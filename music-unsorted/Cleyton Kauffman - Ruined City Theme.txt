@@ -1,0 +1,8 @@
+Author: Cleyton Kauffman (https://soundcloud.com/cleytonkauffman/))
+License: CC-BY-SA 4.0
+Origin: https://opengameart.org/content/ruined-city-theme
+
+[ FIXED ] popping / clicking noise at the end of the loop; files updated; ~ ~ theme for abandoned place, factory, chernobyl-esque, disaster, etc. ~ ~Loops seamlessly: Yes. Duration: 1:52 Sample Rate: 16-Bit Stereo, 44.1 kHz Included formats: WAV, MP3, OGG, FLAC.  Tip: Keep in mind that MP3 is not good for loop/play mode (cus there's a gap/mp3bug between loops). Use wav, flac or ogg instead. ~ ~  Your feedback is highly appreciated! 
+
+Copyright/Attribution Notice: 
+Music by Cleyton Kauffman - https://soundcloud.com/cleytonkauffman

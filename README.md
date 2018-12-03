@@ -6,7 +6,7 @@ In case you also need free to use game graphics, there is a separate repository 
 https://github.com/saniv/free-game-art
 
 ## Reason for this Repository to Exist
-Some artists, like Ian Alex Mac, have pulled their CC-BY music out of free use. For example, https://freemusicarchive.org/music/Ian_Alex_Mac/Cues_Additional/ had a lot more tracks before. Other projects, like Monster RPG 2 are now under unspecified license, while earlier release had public domain license.
+Some artists, like Ian Alex Mac, have pulled their CC-BY music out of free use. For example, https://freemusicarchive.org/music/Ian_Alex_Mac/Cues_Additional/ had a lot more tracks before. And many people at OGA have removed their songs or changed license to more restrictive. For example, http://web.archive.org/web/20150915182004/https://opengameart.org/content/mystical-enigmatic-background-music was CC-BY 3.0, but now it is CC-BY-SA 4.0, yet once give CC-BY license cannot be revoken. Other projects, like Monster RPG 2 are now under unspecified license, while earlier release had public domain license.
 
 But the CC licenses have such property, that once granted, they can't be revoked. So I have shared the original files and license info, although I doubt the authors would be happy. So use at you own risk and be prepared to be called "asshole" and receive cease and desist orders, which you can legally ignore.
 
